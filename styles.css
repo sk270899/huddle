@@ -1,0 +1,148 @@
+body{
+background: url(images/bg-hero-desktop.svg) no-repeat;
+}
+
+.logo{
+  margin: 50px auto auto 60px;
+  width: 190px;
+}
+
+.div2{
+  text-align: left;
+}
+
+.h1{
+  font-family: 'Rubik', sans-serif;
+  width: 400px;
+  margin: 180px auto auto 68px;
+  font-weight: bolder;
+}
+
+.para{
+  width: 500px;
+  margin: 40px auto auto 68px;
+  font-size: 18px;
+}
+
+.button1{
+  margin: 20px auto auto 68px;
+  background-color: #d527b7;
+  color: #fff;
+  border-radius: 30px;
+  font-size: 15px;
+  padding: auto 15px auto 15px;
+}
+
+.button1:hover{
+  background: #ff82c3;
+  width: 200px;
+  height: 40px;
+}
+
+.button2:hover{
+  background: #beeef7;
+  width: 160px;
+}
+
+.div3{
+  text-align: right;
+}
+
+.asas{
+  float: right;
+  margin: 50px 70px auto auto;
+  background-color:  #6fc2d0;
+  border-radius: 30px;
+  font-size: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #fff;
+}
+
+.mockup{
+  width: 700px;
+  margin: 70px 60px auto auto;
+}
+
+.grow{
+  float: right;
+  width: 400px;
+  margin: 160px 150px auto auto;
+}
+
+.div4{
+  text-align: left;
+  height: 600px;
+}
+
+.h2{
+  margin: 200px auto auto 250px;
+}
+
+.para2{
+  width: 450px;
+  font-size: 18px;
+  margin: 20px auto auto 250px;
+}
+
+.conv{
+  width: 430px;
+  margin: auto auto auto 250px;
+}
+
+.para3{
+  width: 480px;
+  font-size: 18px;
+  margin:
+}
+
+.div8{
+  margin: 100px auto auto 120px;
+}
+
+.users{
+  width: 430px;
+}
+
+.div11{
+
+}
+
+.endh{
+  margin-left: 450px;
+}
+
+.button3{
+  margin-left: 620px;
+  background-color: #d527b7;
+  color: #fff;
+  border-radius: 30px;
+  font-size: 20px;
+  padding: auto 15px auto 15px;
+}
+
+.button3:hover{
+  background: #ff82c3;
+}
+
+.bottom-container{
+  background: #002f35;
+  margin-top: 30px;
+}
+
+.endh1{
+  color: #fff;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  font-size: 57px;
+}
+
+.last{
+  margin-left: 100px;
+}
+
+.para_l{
+  color: #fff;
+  width: 370px;
+  padding-top: 20px;
+}
